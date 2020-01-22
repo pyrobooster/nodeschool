@@ -54,6 +54,7 @@ console.log(result);
 //}
 
 
+
 // if (indexNum < length.process.argv) {
 //    indexNum++;
 //    +process.argv[indexNum])
